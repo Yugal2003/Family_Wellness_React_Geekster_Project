@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#girl_with_text{
+    margin-inline: 2rem;
+    height: 700px;
+    position: relative;
+    background-color: rgb(250, 248, 248);
+}
+#img_id{
+    height: 70%;
+    width: 93.4%;
+    margin: 0rem 3rem;
+    position: absolute;
+}
+#pink_text_h3{
+    margin-inline: 1rem;
+    margin-top: -10rem;
+    position: relative;
+    height: 15rem;
+    background-color: rgb(117, 6, 69);
+}
+#think_health{
+    padding-top: 2rem;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+#pink_text_p{
+    padding-top: 2rem;
+    text-align: center;
+    font-size: 12px;
+    color: white;
+}
+#button{
+    padding-top: 2rem;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin-left: 1rem;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    color: white;
+    border: none;
+    border: 1px solid white;
+    background-color: rgb(117, 6, 69);
+}
+.other_text{
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+}
+#pink_txt{
+    font-weight: 500;
+    color: rgb(117, 6, 69);
+}
+.two_text{
+    font-weight: 500;
+    padding-top: 1rem;
+    padding-left: 10rem;
+}
+.hr{
+    margin-top: 3rem;
+    font-weight: 900;
+    width: 80%;
+}
